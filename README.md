@@ -1,6 +1,6 @@
 # Introduction to Make
 
-This GitHub repositor provides an introduction to the `make` tool.
+This GitHub repository provides an introduction to the `make` tool.
 
 ## Review `rebuild.py`
 
